@@ -364,7 +364,7 @@ textarea {
 form .send-button {
     background: #122084;
     color: #fff;
-    box-shadow: 4px 4px #fff;
+    box-shadow: 4px 4px #EEEEF2;
     padding: 0 25px;
     line-height: 42px;
     display: inline-block;
@@ -377,7 +377,7 @@ form .send-button {
 }
 
 form .send-button:hover {
-    background: #fff;
+    background: #EEEEF2;
     color:  #122084;
     box-shadow: 4px 4px #122084;
 }
