@@ -91,6 +91,7 @@ section {
     max-wdith: 100%;
     width: 400px;
     height: auto;
+    cursor: pointer;
     transition: .3s;
 }
 
@@ -364,7 +365,7 @@ textarea {
 form .send-button {
     background: #122084;
     color: #fff;
-    box-shadow: 4px 4px #EEEEF2;
+    box-shadow: 4px 4px #C0C0C0;
     padding: 0 25px;
     line-height: 42px;
     display: inline-block;
@@ -377,7 +378,7 @@ form .send-button {
 }
 
 form .send-button:hover {
-    background: #EEEEF2;
+    background: #C0C0C0;
     color:  #122084;
     box-shadow: 4px 4px #122084;
 }
@@ -469,8 +470,8 @@ form .send-button:hover {
         display: block;
     }
 
-   .navbar.active {
-    top: 100%;
+   .navbar.active{
+    top: 20%;
    }
 
 }
