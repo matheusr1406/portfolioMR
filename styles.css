@@ -451,7 +451,7 @@ form .send-button:hover {
 
     .navbar {
         position: absolute;
-        top: -500px;
+        top: 20%;
         left: 0;
         right: 0;
         display: flex;
@@ -471,7 +471,7 @@ form .send-button:hover {
     }
 
    .navbar.active{
-    top: 20%;
+    top: 10%;
    }
 
 }
