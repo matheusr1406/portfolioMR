@@ -451,7 +451,7 @@ form .send-button:hover {
 
     .navbar {
         position: absolute;
-        top: 20%;
+        top: -500px;
         left: 0;
         right: 0;
         display: flex;
