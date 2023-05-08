@@ -172,7 +172,7 @@ button:hover strong:after {
 }   
 
 .about-img img {
-    max-wdith: 100%;
+    max-width: 100%;
     width: 500px;
     height: auto;
 }
@@ -426,7 +426,7 @@ button:hover strong:after {
 
 
 
-@media (max-width: 725px) {
+@media (max-width: 768px) {
     .home {
         grid-template-columns: 1fr;
         grid-gap: 2rem;
@@ -462,7 +462,6 @@ button:hover strong:after {
 
     .about-img {
         order: 2;
-        width: 30px;
+        max-width: 60%;
         height: auto;
-    }
 }
